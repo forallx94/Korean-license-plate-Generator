@@ -8,12 +8,13 @@ Generate Synthetic Korea License Plate.
 
 - I recommend pre-training with synthetic images and fine-tune with real data.
 
+- Korean electric car license plate creation process added
+
 ## Types of Korean license plates
 
 - You can create synthetic license plate pictures by selecting the plate of the desired type.
 
-![Type of license plate](https://github.com/qjadud1994/CRNN-Keras/blob/master/photo/license%20plate.jpg)
-
+![Type of license plate](license plate.jpg)
 
 
 
@@ -38,3 +39,6 @@ Generate Synthetic Korea License Plate.
 |Generator_original.py           |  generate images without any image distortion/augmentation.     |
 |Generator_augmentation.py       |  generate images with image augmentations such as random brightness.   |
 |Generator_perspective.py |   generate images with perspective transform.     |
+|Eletronic_Generator_original.py           |  generate Eletronic car plate images without any image distortion/augmentation.     |
+|Eletronic_Generator_augmentation.py       |  generate Eletronic car plate images with image augmentations such as random brightness.   |
+|Eletronic_Generator_perspective.py |   generate Eletronic car plate images with perspective transform.     |
