@@ -14,8 +14,7 @@ Generate Synthetic Korea License Plate.
 
 - You can create synthetic license plate pictures by selecting the plate of the desired type.
 
-![Type of license plate](license plate.jpg)
-
+![Type of license plate](license_plate.jpg)
 
 
 ## Labeling
